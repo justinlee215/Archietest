@@ -1,0 +1,97 @@
+[
+    {
+        "name": "eAdminComponent",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getEadminData",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getFreightStatus",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getShipmentStatusUS",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "greetingComponent",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getShipmentStatus",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getUserData",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "shipmentUSComponent",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "freightComponent",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getShipmentStatusCA",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "shipmentCAComponent",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getCargowiseJobnumber",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getStaffData",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "staffComponent",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "postAsyncMessage",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "postAsyncMessageComponent",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "handleWebhookPutMessage",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "mainWebhookPostChat",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getJWT",
+        "private": false,
+        "run_as_system": true
+    }
+]

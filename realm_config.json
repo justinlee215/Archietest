@@ -1,0 +1,8 @@
+{
+    "app_id": "justin-test-oydxx",
+    "config_version": 20210101,
+    "name": "Justin-test",
+    "location": "US-OR",
+    "deployment_model": "LOCAL",
+    "environment": "testing"
+}
